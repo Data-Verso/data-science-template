@@ -1,5 +1,9 @@
 [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-blue?logo=medium)](https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)
 
+# Original
+
+Forked from: [Khuyen Tran](https://github.com/khuyentran1401/data-science-template)
+
 # Data Science Cookie Cutter
 
 **Note**: _This template uses poetry. If you prefer using pip, go to the [pip](https://github.com/khuyentran1401/data-science-template/tree/pip) branch instead._
